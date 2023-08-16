@@ -1,1 +1,1 @@
-###### An advanced Object-Oriented C++ Cart Billing Project with secure admin/buyer login. An intuitive dashboard for streamlined goods management, seamless addition/editing/deletion of products, and dynamic sales reports with insightful analytics.
+## An advanced Object-Oriented C++ Cart Billing Project with secure admin/buyer login. An intuitive dashboard for streamlined goods management, seamless addition/editing/deletion of products, and dynamic sales reports with insightful analytics.
